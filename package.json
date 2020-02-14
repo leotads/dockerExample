@@ -1,0 +1,15 @@
+{
+  "name": "dockerExample",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": "https://github.com/leotads/dockerExample.git",
+  "author": "Leonardo Freitas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
